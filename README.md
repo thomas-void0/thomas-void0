@@ -1,4 +1,4 @@
-### Hi,welcome to my github 👋
+### Hi,welcome to my github 👋 / [blog](https://github.com/lmxyjy/blogs)
 <!--
 **lmxyjy/lmxyjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
