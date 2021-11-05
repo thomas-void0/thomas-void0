@@ -1,7 +1,13 @@
 
+
+  
+   ![1636102675(1)](https://user-images.githubusercontent.com/48620706/140484667-2e01e833-f9d4-48bc-be51-4a5b09d3a8d3.png)
+
+  **Hello, Welcome to my github !**
+
+
 <!--
 **lmxyjy/lmxyjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 Here are some ideas to get you started:
 
