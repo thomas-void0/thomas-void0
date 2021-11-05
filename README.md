@@ -2,7 +2,7 @@
   **Hello, Welcome to my github !**
   
  
-<!--    ![1636102874(1)](https://user-images.githubusercontent.com/48620706/140485079-a9bdbf49-bce6-49d6-bc1e-7979c5760d97.png) -->
+
 
 
 
@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... contribs
 -->
-![image](https://user-images.githubusercontent.com/48620706/140486526-4809db07-0c0f-436f-97ae-6511da0dc475.png)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmxyjy&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&count_private=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+![image](https://user-images.githubusercontent.com/48620706/140487034-cf4a19a9-143c-4dab-a3dc-36a6b5b59c09.png)
+![image](https://user-images.githubusercontent.com/48620706/140486526-4809db07-0c0f-436f-97ae-6511da0dc475.png)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmxyjy&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 ![my snake](https://github.com/lmxyjy/lmxyjy/blob/output/github-snake.gif)
