@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmxyjy&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&count_private=true&line_height=24&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmxyjy&layout=compact&hide_title=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![my snake](https://github.com/lmxyjy/lmxyjy/blob/output/github-snake.gif) -->
+![my snake](https://github.com/lmxyjy/lmxyjy/blob/output/github-snake.svg)
  
