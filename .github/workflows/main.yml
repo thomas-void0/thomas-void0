@@ -4,8 +4,10 @@ on:
   schedule:
     # 每 6 小时，执行一次
     - cron: "0 */6 * * *"
-  workflow_dispatch:
-
+  push:
+    branches:
+      - master
+  
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
