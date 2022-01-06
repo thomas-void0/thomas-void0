@@ -14,7 +14,7 @@ jobs:
       - uses: Platane/snk@master
         with:
           # 你的 GitHub 的名称
-          github_user_name: lmxyjy
+          github_user_name: thomas-void0
           # 生成的 .gif 图存储的位置
           gif_out_path: dist/github-snake.gif
           # 生成的 .gif 图存储的位置
