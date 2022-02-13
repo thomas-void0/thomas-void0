@@ -1,7 +1,7 @@
 
   **Hello, Welcome to my github !**
 <!--
-**lmxyjy/lmxyjy** is a ✨ _special_ ✨ r epository because its `README.md` (this file) appears on your GitHub profile.
+**lmxyjy/lmxyjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
