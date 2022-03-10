@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... contribs 
 -->
 
+![icon](https://user-images.githubusercontent.com/48620706/157662402-5492ddb1-be11-4236-b364-73880168bf61.png)LeetCode：[web_thomas](https://leetcode-cn.com/u/web_thomas/) | Blog：[thomas-void0](https://github.com/thomas-void0/blogs)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomas-void0&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&count_private=true&line_height=24&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-void0&layout=compact&hide_title=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![my snake](https://github.com/thomas-void0/thomas-void0/blob/output/github-snake.svg)
