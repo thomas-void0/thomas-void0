@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ![my snake](https://github.com/thomas-void0/thomas-void0/blob/output/github-snake.svg)
 
-**profile-3d-contrib**  
+<!-- **profile-3d-contrib**  
 
-![profile-3d-contrib](./profile-3d-contrib/profile-green-animate.svg)
+![profile-3d-contrib](./profile-3d-contrib/profile-green-animate.svg) -->
   
   
  
