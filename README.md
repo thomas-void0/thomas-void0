@@ -22,6 +22,4 @@
   
   
  
-**some record:** https://github.com/thomas-void0/blogs
-
 ![my snake](https://github.com/thomas-void0/thomas-void0/blob/output/github-snake.svg)
