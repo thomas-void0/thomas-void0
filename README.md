@@ -1,7 +1,7 @@
     
 Thank you for your visit.          
           
-  I'm a frontend engineer. now lives in Chengdu.         
+  I'm a frontend engineer. now lives in Chengdu.          
    
  <!-- [ ![icons8-level-up-your-coding-skills-and-quickly-land-a-job-14](https://user-images.githubusercontent.com/48620706/157663392-bf508ac4-1b2e-4618-9b8a-20a65913b074.png)LeetCode：[thomas](https://leetcode-cn.com/u/web_thomas/) | ![icons8-blog-16](https://github.com/thomas-void0/thomas-void0/assets/48620706/a0a135a2-0320-45fa-8541-98f4752e177c)issuze: [blog](https://github.com/thomas-void0/blogs) --> 
    
